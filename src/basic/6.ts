@@ -23,6 +23,7 @@ const ManWithoutAddress : User = {
   age: 30,  
   email: "john@example.com",  
 };  
- 
+
+
 console.log(ManWithAddress);  
 console.log(ManWithoutAddress);
