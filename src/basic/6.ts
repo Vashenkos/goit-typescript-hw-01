@@ -17,7 +17,6 @@ interface User {
       country: "USA",
     },
   };
-  
   const mang: User = {
     name: "Mango",
     age: 30,
