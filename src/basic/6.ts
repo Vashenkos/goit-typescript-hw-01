@@ -18,7 +18,7 @@ const ManWithAddress: User = {
   },  
 };  
 
-const ManWithoutAddress: User = {  
+const ManWithoutAddress : User = {  
   name: "Mango",  
   age: 30,  
   email: "john@example.com",  
